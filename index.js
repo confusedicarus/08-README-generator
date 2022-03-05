@@ -94,7 +94,7 @@ function init() {
     ${data.useage}
     Examples to use the repo:
     
-    
+    [Video Link](https://drive.google.com/file/d/1GHkrgHedAD3TfTBHBWoD_Vz2ouaNhfWa/view?usp=sharing)
     
     
 ## Credits
